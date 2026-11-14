@@ -139,7 +139,7 @@ input:focus,select:focus,textarea:focus{border-color:#aa8752;box-shadow:0 0 0 3p
 @media(max-width:900px){header,header nav{background:#fcf9f3f7}.hero-copy{padding:45px 9%}.hero-photo{min-height:0;aspect-ratio:1}.hero-sprite{background-size:200% 200%;background-position:0 0}.mobile-order-bar{background:#fcf9f3f7}.choice-grid{gap:9px}}
 @media(max-width:650px){.hero{grid-template-columns:1fr}.hero-copy{padding:38px 6% 25px}.hero-photo{aspect-ratio:1;min-height:0;max-height:none;height:auto}.hero-sprite{background-size:200% 200%;background-position:0 0}.product-photo{aspect-ratio:1}.products{gap:32px}.collection .section-heading>p{font-size:13px}.photo-label{bottom:14px;right:14px}.hero-note{margin-top:16px}}
 .products{grid-template-columns:repeat(4,minmax(0,1fr))}
-.photo-gifts{background-image:url('/assets/cadeautjes.webp');background-size:cover;background-position:center}
+.photo-gifts{background-image:url('assets/cadeautjes.webp');background-size:cover;background-position:center}
 .products h3{font-size:25px}.products article>p{min-height:88px}
 .category-fieldset,.color-fieldset{border:0;padding:0;margin:22px 0 0;min-width:0}
 .category-fieldset legend,.color-fieldset legend{font-size:13px;font-weight:500;padding:0}
